@@ -1,0 +1,5 @@
+Guidance refers to the determination of the desired path of travel (the "trajectory") from the vehicle's current location to a designated target, as well as desired changes in velocity, rotation and acceleration for following that path. (path trajectory motion planning)
+
+Navigation refers to the determination, at a given time, of the vehicle's location and velocity (the "state vector") as well as its attitude.(self-state and environment)
+
+Control refers to the manipulation of the forces, by way of steering controls, thrusters, etc., needed to execute guidance commands while maintaining vehicle stability.
